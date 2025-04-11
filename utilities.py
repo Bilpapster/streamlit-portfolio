@@ -27,7 +27,7 @@ def render_about_information():
     with left:
         st.write("Hello traveller :wave: :flying_saucer:,")
         st.title("I'm Vasileios Papastergios,")
-        st.write("a Computer Science graduate with a passion for data-centric, impactful solutions.")
+        st.write("a Computer Scientist with a passion for delivering data-centric, impactful solutions.")
     with right:
         st.image("Vasileios Papastergios.png")
 

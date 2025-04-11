@@ -11,8 +11,10 @@ def get_experiences_section():
 
         - Started as Undergraduate collaborator, promoted to Research Data Engineer in July 2024.
         - Contributing to research endeavors towards efficient data quality measurement, assessment & monitoring.
-        - Co-developing software for measuring and visualizing data quality on high-volume & variety data streams.
-        - Serving as a Teaching Assistant with 40+ total hours of practical Object-Oriented programming sessions for B.Sc. students.
+        - Co-developing open-source software for scalable data quality monitoring in high-volume data streams.
+        - Operating on the intersection of academia and industry, utilizing mature research advancements to solve real-world challenges of 5 international industrual partners.
+        - Designing the integration of quality monitoring modules in existing ETL pipelines (4+), enabling enhanced quality awareness across their stages.
+        - Presenting lectures (10+) and workshops (5+) on topics related to data management and software engineering for 500+ Computer Science BSc students in total.
         """, unsafe_allow_html=True)
     st.divider()
     st.markdown("""
